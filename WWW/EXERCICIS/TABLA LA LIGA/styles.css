@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+.tabla{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+.fotos {
+    width: 10%;
+    margin-left: -20%;
+}
+hr{
+    color: red;
+}
+
+th, tr{
+    text-align: center;
+}
+.fondogris{
+    background-color: rgb(238, 238, 238);
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(29, 29, 29);
+}
+
+.pp{
+    background-color: rgba(0, 110, 114, 0.815);
+    
+}
+td, th{
+  
+    color: white;
+    
+}
+
+
+.tabla{
+    width: 100%;
+    border-collapse: collapse;
+}
+.col2{
+    width: 20%;
+    
+}
+p{
+    color: grey;
+}

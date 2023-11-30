@@ -1,0 +1,29 @@
+h1 {
+    background-color: rgb(61, 61, 61);
+    text-align: center;
+    color: white;
+    padding: 16px;
+    
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 14px;
+    width: 100%;
+    
+    
+}
+img{
+    width: 50%;
+    box-shadow: 10px black;
+    margin-left: 25%;
+    margin-top: 6%;
+}
+.a{
+    background-color: rgb(61, 61, 61);
+    border-radius: 10px;
+}
+p {
+    color: white;
+    margin-left: 20%;
+}
