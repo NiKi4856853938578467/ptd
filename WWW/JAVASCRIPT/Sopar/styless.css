@@ -1,0 +1,23 @@
+body{
+    background-image: url("./IMG/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.tariq-gay{
+    margin-left: 36%;
+    margin-right: 36%;
+    background-color: rgba(206, 168, 0, 0.822);
+    margin-top: 15%;
+    text-align: center;
+    border-radius: 5%;
+    padding: 2%;
+    
+}
+#numero1{
+    width: 25px;
+    text-align: center;
+}
+#numero2{
+    width: 25px;
+    text-align: center;
+}

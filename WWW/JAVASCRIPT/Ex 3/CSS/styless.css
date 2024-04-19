@@ -1,0 +1,73 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-top: 10%;
+    
+  }
+  .grid-container > div {
+
+    text-align: center;
+    padding: 60px 0;
+    font-size: 30px;
+  }
+.concatenar{
+    background-color: rgba(255, 0, 0, 0.897);
+    
+}
+.longitud{
+    background-color: rgba(255, 255, 0, 0.87);
+}
+.dividir{
+    background-color: rgba(255, 166, 0, 0.815);
+}
+.remplazar{
+    background-color: rgba(30, 255, 0, 0.89);
+}
+#input-remplazar2{
+    width: 50px;
+}
+
+#input-remplazar3{
+    width: 50px;
+}
+.buton1{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 7%;
+    margin-top: -50px;
+    padding: 10px;
+}
+input{
+    padding: 5px;
+}
+.buton2{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 7%;
+    margin-top: -32px;
+    padding: 10px;
+}
+.buton3{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 7%;
+    margin-top: -50px;
+    padding: 10px;
+}
+.buton4{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 7%;
+    margin-top: -50px;
+    padding: 10px;
+}
+#input-dividir2{
+    width: 10%;
+}
